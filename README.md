@@ -36,3 +36,9 @@ Story beats should emphasize how moisture control, structural safety, and clear 
 Use the complete script pack here:
 
 - [`PRODUCTION_KIT_5_ADS.md`](./PRODUCTION_KIT_5_ADS.md)
+
+## South Eastern Regional Campaign Ideas
+
+State, regional, climate, and demographic-specific commercial concepts for Mississippi, Alabama, Florida, and Georgia:
+
+- [`REGIONAL_SE_CAMPAIGN_IDEAS.md`](./REGIONAL_SE_CAMPAIGN_IDEAS.md)
