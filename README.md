@@ -35,4 +35,4 @@ Story beats should emphasize how moisture control, structural safety, and clear 
 
 Use the complete script pack here:
 
-- [`/home/runner/work/CrawlLogic/CrawlLogic/PRODUCTION_KIT_5_ADS.md`](./PRODUCTION_KIT_5_ADS.md)
+- [`PRODUCTION_KIT_5_ADS.md`](./PRODUCTION_KIT_5_ADS.md)
