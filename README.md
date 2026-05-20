@@ -30,3 +30,9 @@ The company delivers crawl space encapsulation, moisture remediation, drainage s
 
 Crawl Logic should be framed as a trust-first, education-first operator protecting homes from hidden damage.  
 Story beats should emphasize how moisture control, structural safety, and clear homeowner communication prevent long-term property loss while improving indoor air quality.
+
+## Production Kit (5 TV-Quality Ad Templates)
+
+Use the complete script pack here:
+
+- [`/home/runner/work/CrawlLogic/CrawlLogic/PRODUCTION_KIT_5_ADS.md`](./PRODUCTION_KIT_5_ADS.md)
